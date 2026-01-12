@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/AldahirDev">
-    <img src="https://avatars.githubusercontent.com/u/TU_USER_ID_DE_GITHUB?v=4" width="150px" alt="AldahirDev Avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/202321251?v=4" width="150px" alt="AldahirDev Avatar"/>
   </a>
 
   # ✨ ¡Bienvenido a mi espacio digital! Soy Aldahir 👋
