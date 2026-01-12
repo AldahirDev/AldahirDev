@@ -39,4 +39,4 @@ Egresado de la carrera técnica de Desarrollo de Software en **SENATI**. Desarro
 
 ### Educación
 * **Profesional Técnico en Desarrollo de Software** | SENATI (2023 - 2025)
-<hr />>
+<hr />
