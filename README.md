@@ -1,15 +1,16 @@
 <div align="center">
 
+  <img src="https://i.ibb.co/kH10tQx/Anime-Banner.png" alt="Banner de Anime - AldahirDev" width="100%">
   <a href="https://github.com/AldahirDev">
-    <img src="https://avatars.githubusercontent.com/u/202321251?v=4" width="150px" alt="AldahirDev Avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/202321251?v=4" width="150px" alt="AldahirDev Avatar" style="border-radius:50%; border: 4px solid #8B5CF6; margin-top: -75px; background-color: #0D1117;"/>
   </a>
 
-  # ✨ ¡Bienvenido a mi espacio digital! Soy Aldahir 👋
+  # ✨ ¡Hey! Soy Aldahir 👋
 
-  ### 💡 Egresado de Desarrollo de Software | Backend Developer Junior con Pasión por la Innovación
+  ### 🔰 Egresado y Aprendiz de la Programación | Buscando mi Próxima Gran Aventura (¡y el One Piece!) 🏴‍☠️
 
   <p align="center">
-    Desarrollador con un enfoque estratégico en la eficiencia y la automatización. Mi trayectoria me ha equipado para transformar desafíos operativos en soluciones robustas, siempre con una mirada crítica hacia la optimización de procesos.
+    Soy un entusiasta Backend Developer Junior recién egresado, listo para aplicar mis habilidades y aprender cada día más. Me encanta construir cosas que funcionen bien por detrás y estoy en la búsqueda de mi primer gran reto profesional. ¡Como en un buen anime, estoy subiendo de nivel constantemente!
   </p>
 
   <p align="center">
@@ -25,23 +26,23 @@
 
 </div>
 
-### 🚀 Mi Ecosistema de Desarrollo
+### 🚀 Mi Camino Ninja en el Código
 
 <p align="justify">
-  Como egresado de <b>SENATI</b>, mi formación se centra en crear soluciones backend que no solo funcionan, sino que optimizan. Estoy en constante aprendizaje de las mejores prácticas de la industria, desde el diseño de arquitecturas escalables hasta la implementación de pruebas unitarias. Mi pasión es desentrañar problemas complejos y transformarlos en código limpio y eficiente.
+  Como un egresado de <b>SENATI</b>, estoy dando mis primeros grandes pasos en el desarrollo backend. Me fascina entender cómo funcionan las cosas por dentro y construir la lógica que hace que las aplicaciones cobren vida. Estoy siempre listo para enfrentar nuevos desafíos, aprender de los mejores y contribuir con soluciones creativas. ¡Mi objetivo es ser un Kage del código!
 </p>
 
-### 💼 Proyectos que Resaltan mi Habilidad
+### 📚 Mis Primeras Misiones Completadas (Experiencia)
 
 #### 🔹 Sistema de Automatización de Licencias (Peru Data Recovery)
-- **Impacto:** Ideé y codifiqué una plataforma robusta que **automatiza la generación y distribución de licencias** para Peru Data Recovery. Este sistema es capaz de procesar hasta **1000 pedidos por lote**, integrándose fluidamente con plataformas como WordPress mediante APIs PHP y asegurando entregas instantáneas. Una muestra clara de cómo la tecnología puede escalar operaciones críticas.
-- **Tecnologías:** `Python`, `Flask`, `PHP (APIs)`, `MySQL`, `HTML`, `CSS (Bootstrap)`.
+- **Logro (¡Fue Épico!):** Construí un sistema con **Python y Flask** que automatiza la generación de licencias, conectándose con la web de WordPress vía APIs de PHP. Manejé pedidos de hasta 1000 licencias, ¡así que sé de escalabilidad y procesos automáticos!
+- **Skills aprendidas:** `Python`, `Flask`, `PHP (APIs)`, `MySQL`, `HTML`, `CSS (Bootstrap)`.
 
-#### 🔹 Soporte y Mantenimiento de Sistemas (UNI - Facultad de Ingeniería Mecánica)
-- **Impacto:** Contribuí al mantenimiento y actualización de sistemas de gestión académica, asegurando la **integridad y disponibilidad** de datos cruciales para alumnos y docentes. Mi rol involucró la resolución proactusiva de incidencias, demostrando mi capacidad para trabajar en entornos productivos y de alto impacto.
-- **Tecnologías:** `SQL`, `Sistemas de Gestión`, `Resolución de Problemas`.
+#### 🔹 Mantenimiento de Sistemas (UNI - Facultad de Ingeniería Mecánica)
+- **Logro (¡Trabajo en Equipo!):** Colaboré en el mantenimiento de bases de datos y sistemas de gestión de alumnos. Esto me enseñó la importancia de la **integridad de los datos** y la resolución de problemas en un entorno real.
+- **Skills aprendidas:** `SQL`, `Gestión de Datos`, `Soporte Técnico`.
 
-### 🛠️ Herramientas y Tecnologías que Dominio
+### 🛠️ Mis Herramientas de Batalla
 
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -49,9 +50,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+</p>
 
-### 🌐 Conéctate Conmigo
+### 🌐 ¡Encontrémonos en la Aldea de la Red!
 
 <p align="left">
   <a href="TU_LINK_DE_LINKEDIN" target="_blank">
@@ -65,7 +66,11 @@
 ---
 
 <div align="center">
-  <h3>Estadísticas de mi Actividad en GitHub</h3>
+  <h3>Mi Nivel de Actividad (¡Subiendo de XP!)</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=AldahirDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de Aldahir en GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AldahirDev&theme=radical&hide_border=true" alt="Racha de Contribuciones" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWc0OWd6NmdwaG56ZGl4cWhwcnJtNGp5azZ5dG5qdzJkd2EwYmU5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lqmp9tAptVcYw.gif" width="60px" alt="Anime GIF" />
 </div>
