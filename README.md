@@ -3,8 +3,8 @@
   <p><strong>Backend Developer Junior | Egresado de Desarrollo de Software</strong></p>
   
   <p>
-    <a href="TU_LINK_DE_LINKEDIN">LinkedIn</a> • 
-    <a href="mailto:tu.correo@ejemplo.com">Email</a> • 
+    <a href="www.linkedin.com/in/aldahir-chambillo-isasi-a588353a5">LinkedIn</a> • 
+    <a href="mailto:aldair.dev@gmail.com">Email</a> • 
     <a href="https://github.com/AldahirDev">GitHub</a>
   </p>
 
@@ -39,10 +39,4 @@ Egresado de la carrera técnica de Desarrollo de Software en **SENATI**. Desarro
 
 ### Educación
 * **Profesional Técnico en Desarrollo de Software** | SENATI (2023 - 2025)
-* **Educación Secundaria** | Nuestra Señora de Guadalupe (2018 - 2022)
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AldahirDev&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+<hr />>
